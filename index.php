@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>nero15 - ポートフォリオ</title>
-    <link rel="stylesheet" href="style.css?20250309040">
+    <link rel="stylesheet" href="style.css?20250309041">
 </head>
 <body>
     <header>
@@ -77,7 +77,7 @@
 
         <section id="contact" class="container">
             <h2>お問い合わせ</h2>
-            <p>ご連絡は<a href="mailto:your-email@example.com">こちら</a>まで。</p>
+            <p>ご連絡は<a href="mailto:takuya.hoshima@sportsbull.jp">こちら</a>まで。</p>
             <!-- In the future, consider a contact form here -->
         </section>
     </main>
