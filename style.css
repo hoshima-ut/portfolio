@@ -101,7 +101,8 @@ section h2 {
 .project-item:hover {
     transform: translateY(-5px);
     background-color: #001D48;
-    color: white;
+    color: #ddd; /* A lighter color for better contrast */
+}
 }
 
 .skill-list ul {
